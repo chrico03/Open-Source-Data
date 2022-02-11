@@ -13,3 +13,19 @@ Directory of Open Source Datasets
 [CIA UFO Dataset](https://www.theblackvault.com/documentarchive/ufos-the-central-intelligence-agency-cia-collection/#prettyPhoto)
 
 - https://www.reddit.com/r/datasets/comments/kyqbxn/the_cia_has_declassified_2780_pages_of_uforelated/
+
+[ProPublica Data Store](https://www.propublica.org/datastore/)
+
+[Awful AI](https://github.com/daviddao/awful-ai)
+
+[Kaggle](https://www.kaggle.com/datasets)
+
+[Larry Winner's Datasets](http://users.stat.ufl.edu/~winner/datasets.html)
+
+[Machine Learning Datasets](https://www.datasetlist.com/)
+
+[Hospital Pricing DB](https://www.dolthub.com/repositories/dolthub/hospital-price-transparency/data/master)
+
+[WaPo Police Shootings](https://github.com/washingtonpost/data-police-shootings)
+
+[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)
